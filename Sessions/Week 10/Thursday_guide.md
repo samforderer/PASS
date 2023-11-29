@@ -4,7 +4,7 @@
 2. String Manipulation
 3. Data Validation
 
-# Lists
+## Lists
 
 - lists contain multiple elements
 - lists are an iterable structure
