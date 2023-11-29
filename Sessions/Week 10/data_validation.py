@@ -25,7 +25,6 @@ def validate_password(password):
     else:
         return False
     
-    
 #True Test case    
 print(validate_password("Password123"))
 
